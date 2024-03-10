@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emre ÖZTÜRK</h1>
+<h1 align="center">Hi 👋, I'm Emre Öztürk</h1>
 <h3 align="center">Backend developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **Java & Angular**
