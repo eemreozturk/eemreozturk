@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eemreozturk](https://github.com/eemreozturk)
 
-- 📫 How to reach me **emreztrk68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
